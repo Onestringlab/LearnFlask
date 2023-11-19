@@ -8,6 +8,7 @@
 - https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc
 - https://www.youtube.com/watch?v=XTpLbBJTOM4
 - https://www.youtube.com/watch?v=I0Zu-Jtp898
-
+- https://www.youtube.com/playlist?list=PLCC34OHNcOtqJBOLjXTd5xC0e-VD3siPn
+  
 ## SQLAlchemy
 - https://www.youtube.com/watch?v=Z2zD3EdjpNo&list=PLKm_OLZcymWhtiM-0oQE2ABrrbgsndsn0
