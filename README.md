@@ -12,3 +12,4 @@
   
 ## SQLAlchemy
 - https://www.youtube.com/watch?v=Z2zD3EdjpNo&list=PLKm_OLZcymWhtiM-0oQE2ABrrbgsndsn0
+- https://www.youtube.com/watch?v=lgiQLBwPmTQ&list=PLBx6NLmkcbZ1cMFqzGi2u1Q1M7JPPEB5q&index=3
