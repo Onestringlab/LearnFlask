@@ -18,6 +18,7 @@
 - https://www.youtube.com/watch?v=2YOBmELm_v0
 - https://meet.google.com/ini-rbns-nxo
 - https://www.youtube.com/watch?v=IgUAiUs4tC0
+- https://www.youtube.com/watch?v=aaumzRKwDwo
   
 ## SQLAlchemy
 - https://www.youtube.com/watch?v=Z2zD3EdjpNo&list=PLKm_OLZcymWhtiM-0oQE2ABrrbgsndsn0
