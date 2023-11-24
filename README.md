@@ -24,6 +24,7 @@
 - https://www.youtube.com/watch?v=XZ_gAWdGzZk
 - https://www.youtube.com/watch?v=RcQwcyyCOmM
 - https://www.youtube.com/watch?v=5aDfgcI8MHM&list=PLEt8Tae2spYkfEYQnKxQ4vrOULAnMI1iF
+- https://www.youtube.com/watch?v=WhwU1-DLeVw
   
 ## SQLAlchemy
 - https://www.youtube.com/watch?v=Z2zD3EdjpNo&list=PLKm_OLZcymWhtiM-0oQE2ABrrbgsndsn0
