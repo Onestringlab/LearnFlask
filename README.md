@@ -28,6 +28,7 @@
 - https://www.youtube.com/watch?v=sY1lLGe7ECA
 - https://www.youtube.com/watch?v=UwvAMkH9tTU (deploy)
 - https://www.youtube.com/watch?v=IBfj_0Zf2Mo (deploy)
+- https://www.youtube.com/watch?v=vfZgHX5ttsY (deploy)
   
 ## SQLAlchemy
 - https://www.youtube.com/watch?v=Z2zD3EdjpNo&list=PLKm_OLZcymWhtiM-0oQE2ABrrbgsndsn0
