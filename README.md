@@ -41,5 +41,5 @@
 - https://github.com/jonnylangefeld/flask-base-project/tree/master/app
 
 ## Python Code
+- pip install gunicorn (install untuk keperluan deploy)
 - pip freeze > requirements.txt (mengambil modul apa saja yang digunakan)
-- 
