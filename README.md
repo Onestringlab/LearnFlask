@@ -39,6 +39,7 @@
 - https://github.com/app-generator/sample-flask-best-practices
 - https://github.com/apryor6/flask_api_example
 - https://github.com/jonnylangefeld/flask-base-project/tree/master/app
+- https://github.com/PrettyPrinted/youtube_video_code/tree/master/2023
 
 ## Python Code
 - pip install gunicorn (install untuk keperluan deploy)
