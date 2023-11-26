@@ -20,6 +20,7 @@
 - https://www.youtube.com/watch?v=IBfj_0Zf2Mo (deploy)
 - https://www.youtube.com/watch?v=vfZgHX5ttsY (deploy)
 - https://www.youtube.com/watch?v=vfZgHX5ttsY (deploy)
+- https://www.youtube.com/watch?v=rgr_aCg-338 (deploy ml models)
   
 ## SQLAlchemy
 - https://www.youtube.com/watch?v=Z2zD3EdjpNo&list=PLKm_OLZcymWhtiM-0oQE2ABrrbgsndsn0
