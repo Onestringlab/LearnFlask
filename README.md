@@ -29,6 +29,7 @@
 - https://www.youtube.com/watch?v=lgiQLBwPmTQ&list=PLBx6NLmkcbZ1cMFqzGi2u1Q1M7JPPEB5q&index=3
 - https://www.youtube.com/watch?v=XWtj4zLl_tg
 - https://www.youtube.com/watch?v=cH0immwfykI
+- https://www.youtube.com/watch?v=SYG1jQYIxfQ&list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW
 
 ## GIT HUB
 - https://github.com/app-generator/sample-flask-best-practices
